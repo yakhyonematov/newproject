@@ -8,7 +8,7 @@ function Home() {
       className="flex flex-col gap-8 w-96 mx-auto text-xl bg"
     >
       <label htmlFor="input1">
-        email: <br />
+        salom: <br />
         <input
          placeholder="email kiritin..."
           className="border border-black w-full rounded px-2 py-1 mt-1"
